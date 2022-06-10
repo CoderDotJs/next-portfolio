@@ -27,6 +27,18 @@ function MyApp({ Component, pageProps }) {
         trailingSpeed={8}
       />
       <Head>
+        <meta
+          name="keywords"
+          content="This is the Portfolio of a Developer.I am a Web Developer based in Dhaka, Bangladesh.I am a MERN Stack Developer. Contact me at md.akash6724@gmail.com"
+        />
+        <meta name="author" content="Akash's Web Developer Postfolio" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#000000" />
+        <meta property="og:image" content="https://i.ibb.co/9g6vJz7/img.png" />
+        <meta
+          name="description"
+          content="I am Md Johirul Islam Akash. I am a MERN Stack Developer. I Developer React Web Apps. Visit My Portfolio To Explore My Works. "
+        />
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
