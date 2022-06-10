@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "Apartment Selling Site",
+    "desc": "An application created for Apartment Selling Agency Its a full Stack operation site, Apartment fis is a site to find apartment around the world without any worries we will do all the needed work for you to get your apartment. Live link Click here to visit the page: ApartmentFis Serverside live link: ApartmentFis Servier Why Apartments fis Find Aparments Know about Apartment policy Can Find Apartments in any country witout worries Can find Aparments for every budget Get premium Apartments",
+    "techStack": "React js, Firebase, Bootstrap, React Router, Node js, Express Js",
+    "link": "https://github.com/CoderDotJs/niche-site-clientside",
+    "open": "https://apartment-fis.web.app/",
+    "server": "https://github.com/CoderDotJs/niche-site-serverside",
+    "img": [
+      "https://i.postimg.cc/RCKc6X6m/Screenshot-1.png",
+      "https://i.postimg.cc/NfxmbFkP/Screenshot-2.png",
+      "https://i.postimg.cc/7Y4Sg002/Screenshot-3.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Travel Agency Application",
+    "desc": "An application created for A Travel agency, its a full stace site and super performanced, TravelGo is a site to travel around the world without any worries will do all the needed work for you to travel with us.Live link Click here to visit the page: TravelGo Serverside live link: TravelGo Servier .Why TravelGo Travel With us Know about travelig policy Can travel in any country witout worries Can find cars if travelling with us Get premium membership to travel with royality",
+    "techStack": "React js, Firebase, Bootstrap, React Router, Node js, Express Js",
+    "link": "https://github.com/CoderDotJs/tourism-site-clientside",
+    "open": "https://travelgo-36cb3.web.app/",
+    "server": "https://github.com/CoderDotJs/tourism-site-serverside",
+    "img": [
+      "https://i.postimg.cc/rpyXwzrH/Screenshot-4.png",
+      "https://i.postimg.cc/rwk27fFM/Screenshot-5.png",
+      "https://i.postimg.cc/c1PSBspK/Screenshot-6.png",
+      "https://i.postimg.cc/L83FSjnf/Screenshot-7.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Teacher World",
+    "desc": "Its a simple react application for hiring best teachers to tutor, Getting Started with Teacher Hire Site This project was bootstrapped with Teacher Hire. This site can do following things You can search most wanted teachers You can Hire teachers Can hire teachers for make courses",
+    "techStack": "React js, React Router, React Bootstrap",
+    "link": "https://github.com/CoderDotJs/teacher-hire",
+    "open": "https://teacher-hire.netlify.app/",
+    "img": [
+      "https://i.postimg.cc/jd40yzt5/Screenshot-8.png",
+      "https://i.postimg.cc/YqHB4XcZ/Screenshot-10.png",
+      "https://i.postimg.cc/mZMG2vn7/Screenshot-9.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "E-learny for learners",
+    "desc": "Its a learning application like Udemy, coursera, alison. Welcome to Elearny - a learning site Elearny is a React base learning website. Live link: Elearny Usage You can skill your self from home You can find any course you like Learn from the experts",
+    "techStack": "React, Json, Api, React Bootstrap",
+    "link": "https://github.com/CoderDotJs/learning-site",
+    "open": "https://elearny.netlify.app/",
+    "img": [
+      "https://i.postimg.cc/Ss9cJ6HQ/Screenshot-11.png",
+      "https://i.postimg.cc/CKXjhPP6/Screenshot-12.png",
+      "https://i.postimg.cc/3xLX6Jgh/Screenshot-13.png",
+      "https://i.postimg.cc/kXmvRHn0/Screenshot-14.png",
+      "https://i.postimg.cc/mrtYGfwH/Screenshot-15.png",
+      "https://i.postimg.cc/G3Yj2R1P/Screenshot-16.png",
+      "https://i.postimg.cc/yxX9TVVw/Screenshot-17.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Food Nerds",
+    "desc": "Its a simple static site that can be used to attract customers to the restoutents to eat good foods in cheap price",
+    "techStack": "HTML, CSS, Bootstrap, Responsive Design",
+    "link": "https://github.com/CoderDotJs/food-nerds",
+    "open": "https://coderdotjs.github.io/food-nerds/",
+    "img": [
+      "https://i.postimg.cc/pXR68Cx6/Screenshot-18.png",
+      "https://i.postimg.cc/Y0wydfFj/Screenshot-19.png",
+      "https://i.postimg.cc/fWxPJp4d/Screenshot-20.png",
+      "https://i.postimg.cc/DwzppzSQ/Screenshot-21.png",
+      "https://i.postimg.cc/FspnxSHs/Screenshot-22.png",
+      "https://i.postimg.cc/CLs96tm0/Screenshot-23.png",
+      "https://i.postimg.cc/sgfbFcNh/Screenshot-24.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Food Lovers Res.",
+    "desc": "Great UI site for a resturent, it can be used to accomulate customers to the resturent",
+    "techStack": "HTML, CSS, Bootstrap, Font Awesome, Responsive Design",
+    "link": "https://github.com/CoderDotJs/food-lover-site",
+    "open": "https://coderdotjs.github.io/food-lover-site/",
+    "img": [
+      "https://i.postimg.cc/7ZhRKNhY/Screenshot-25.png",
+      "https://i.postimg.cc/2S9sYKMZ/Screenshot-26.png",
+      "https://i.postimg.cc/zfL9GkYP/Screenshot-27.png",
+      "https://i.postimg.cc/8zY09rfd/Screenshot-28.png",
+      "https://i.postimg.cc/3JKVvhHG/Screenshot-29.png",
+      "https://i.postimg.cc/pdn6HXKw/Screenshot-30.png",
+      "https://i.postimg.cc/8cG3wQJq/Screenshot-31.png",
+      "https://i.postimg.cc/wBSnys6x/Screenshot-32.png"
+    ]
+  }
+]

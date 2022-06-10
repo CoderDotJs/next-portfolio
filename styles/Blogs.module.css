@@ -1,0 +1,25 @@
+.blogs {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  text-align: center;
+  color: #ccd6f6;
+}
+@media screen and (min-width: 265px) and (max-width: 400px) {
+  .blogs h1 {
+    font-size: 1.5em;
+  }
+}
+
+.btn {
+  color: rgb(100, 255, 218);
+  text-decoration: none;
+  margin: 0 auto;
+  display: inline-block;
+  font-size: 1.3rem;
+}

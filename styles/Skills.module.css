@@ -1,0 +1,126 @@
+.skills_wrapper {
+  height: auto;
+}
+.skills_list {
+  color: rgb(100, 255, 218);
+  list-style-type: none;
+  display: inline;
+}
+.skills_list .skills {
+  position: relative;
+  padding-left: 20px;
+}
+.skills::before {
+  content: "▹ ";
+  color: rgb(100, 255, 218);
+  position: absolute;
+  left: 0;
+}
+.skills_heading {
+  font-size: 3em;
+  font-weight: normal;
+  color: #ccd6f6;
+}
+.skills_heading::after {
+  content: "";
+  display: inline-block;
+  width: 300px;
+  height: 1px;
+  margin-left: 20px;
+  background-color: #233554;
+}
+
+.skills_wrapper h2 {
+  color: #8892b0;
+}
+.skills .skills_list {
+  margin-top: -2em;
+}
+.skills_list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media screen and (min-width: 265px) and (max-width: 400px) {
+  .skills_heading {
+    font-size: 1.6em;
+  }
+  .skills_wrapper {
+    height: auto;
+  }
+  .skills_heading::after {
+    content: "";
+    display: inline-block;
+    width: 50px;
+    height: 1px;
+    margin-left: 5px;
+  }
+  .skills_list {
+    margin-top: -2em;
+  }
+  .skills_list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .skills_list {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .skills_wrapper h2 {
+    font-size: 1.2em;
+  }
+}
+@media screen and (min-width: 401px) and (max-width: 600px) {
+  .skills_heading {
+    font-size: 1.8em;
+  }
+  .skills_wrapper {
+    height: auto;
+  }
+  .skills_heading::after {
+    content: "";
+    display: inline-block;
+    width: 80px;
+    height: 1px;
+    margin-left: 5px;
+  }
+  .skills_list {
+    margin-top: -2em;
+  }
+  .skills_list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .skills_list {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .skills_wrapper h2 {
+    font-size: 1.3em;
+  }
+}
+@media screen and (min-width: 601px) and (max-width: 768px) {
+  .skills_heading {
+    font-size: 2.2em;
+  }
+  .skills_wrapper {
+    height: auto;
+  }
+  .skills_heading::after {
+    content: "";
+    display: inline-block;
+    width: 150px;
+    height: 1px;
+    margin-left: 5px;
+  }
+  .skills_list {
+    margin-top: -2em;
+  }
+  .skills_list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .skills_wrapper h2 {
+    font-size: 1.4em;
+  }
+}

@@ -1,0 +1,120 @@
+.card_header {
+  display: flex;
+  color: #ccd6f6;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.inner_card_header {
+  display: flex;
+  color: #ccd6f6 !important;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+.github::before {
+  color: #ccd6f6;
+  margin: 0 10px 0 0;
+}
+.link_alt::before {
+  color: #ccd6f6;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+  min-height: 305px;
+  max-height: 305px;
+  background: #112240;
+  border-radius: 10px;
+}
+.card:hover {
+  /* transform: translateY(-20px); */
+  background: #1e304e;
+}
+.card_heading {
+  color: #ccd6f6;
+  line-height: 1;
+}
+.card_body {
+  color: #8892b0;
+  line-height: 1.2;
+}
+.card_techStack {
+  margin: 0;
+}
+.folder::before {
+  color: #64ffda;
+}
+
+@media screen and (min-width: 265px) and (max-width: 400px) {
+  .inner_card_header {
+    font-size: 1em;
+  }
+  .card {
+    padding: 10px;
+    min-height: 250px;
+    max-height: 250px;
+    background: #112240;
+    border-radius: 10px;
+    max-width: 100%;
+  }
+  .card_heading {
+    font-size: 1.2em;
+  }
+  .card_text {
+    font-size: 0.85em;
+  }
+  .card_techStack {
+    font-size: 0.85em;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 600px) {
+  .inner_card_header {
+    font-size: 1em;
+  }
+  .card {
+    padding: 15px;
+    min-height: 275px;
+    max-height: 275px;
+    background: #112240;
+    border-radius: 10px;
+    max-width: 100%;
+  }
+  .card_heading {
+    font-size: 1.4em;
+  }
+  .card_text {
+    font-size: 1em;
+  }
+  .card_techStack {
+    font-size: 1em;
+  }
+}
+@media screen and (min-width: 601px) and (max-width: 768px) {
+  .inner_card_header {
+    font-size: 1.2em;
+  }
+  .card {
+    padding: 13px;
+    min-height: 300px;
+    max-height: 300px;
+    background: #112240;
+    border-radius: 10px;
+    max-width: 100%;
+  }
+  .card_heading {
+    font-size: 1.4em;
+  }
+  .card_text {
+    font-size: 1em;
+  }
+  .card_techStack {
+    font-size: 1em;
+  }
+}

@@ -1,0 +1,124 @@
+.projects {
+  height: auto;
+}
+.projects_heading {
+  font-size: 3em;
+  font-weight: normal;
+  color: #ccd6f6;
+}
+.projects_heading::after {
+  content: "";
+  display: inline-block;
+  width: 300px;
+  height: 1px;
+  margin-left: 20px;
+  background-color: #233554;
+}
+
+/* cards  */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  margin-top: 2rem;
+  margin-bottom: 5em;
+}
+
+@media screen and (min-width: 265px) and (max-width: 400px) {
+  .projects_heading {
+    font-size: 1.6em;
+  }
+  .projects_heading::after {
+    content: "";
+    display: inline-block;
+    width: 50px;
+    height: 1px;
+    margin-left: 20px;
+    background-color: #233554;
+  }
+  .projects {
+    height: auto;
+  }
+  .cards {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 5em;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 600px) {
+  .projects_heading {
+    font-size: 1.8em;
+  }
+  .projects_heading::after {
+    content: "";
+    display: inline-block;
+    width: 80px;
+    height: 1px;
+    margin-left: 20px;
+    background-color: #233554;
+  }
+  .projects {
+    height: auto;
+  }
+  .cards {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 5em;
+  }
+}
+@media screen and (min-width: 601px) and (max-width: 768px) {
+  .projects_heading {
+    font-size: 2.2em;
+  }
+  .projects_heading::after {
+    content: "";
+    display: inline-block;
+    width: 150px;
+    height: 1px;
+    margin-left: 20px;
+    background-color: #233554;
+  }
+  .projects {
+    height: auto;
+  }
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    margin-top: 2rem;
+    margin-bottom: 5em;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 991px) {
+  .projects_heading {
+    font-size: 2.5em;
+  }
+  .projects_heading::after {
+    content: "";
+    display: inline-block;
+    width: 300px;
+    height: 1px;
+    margin-left: 20px;
+    background-color: #233554;
+  }
+  .projects {
+    height: auto;
+  }
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    margin-top: 2rem;
+    margin-bottom: 5em;
+  }
+}
