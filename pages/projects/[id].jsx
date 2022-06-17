@@ -68,7 +68,7 @@ const ProjectDetail = () => {
                           src={img}
                           alt="img"
                           width="1280px"
-                          height="587px"
+                          height="720px"
                           // layout="responsive"
                           clssName={styles.project_img}
                         />

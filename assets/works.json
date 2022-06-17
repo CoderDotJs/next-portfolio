@@ -1,5 +1,19 @@
 [
   {
+    "id": 12,
+    "name": "Binder App",
+    "desc": "This is tinder lite or you can say a clone of tinder. This is just the landing page full stack is on process of build. Will be updated soon.",
+    "techStack": "Next.js, Daisy UI, Tailwind CSS, Font Awesome, Responsive Design, Express, Mongoose, Nodejs",
+    "link": "https://github.com/CoderDotJs/binder-client",
+    "open": "https://binder-one.vercel.app/",
+    "server": "https://github.com/CoderDotJs/binder-server",
+    "img": [
+      "https://i.postimg.cc/YqC0kKrj/Screenshot-68.png",
+      "https://i.postimg.cc/tCB1VRSh/Screenshot-70.png",
+      "https://i.postimg.cc/43xRHZ0h/Screenshot-69.png"
+    ]
+  },
+  {
     "id": 1,
     "name": "Apartment Selling Site",
     "desc": "An application created for Apartment Selling Agency Its a full Stack operation site, Apartment fis is a site to find apartment around the world without any worries we will do all the needed work for you to get your apartment. Live link Click here to visit the page: ApartmentFis Serverside live link: ApartmentFis Servier Why Apartments fis Find Aparments Know about Apartment policy Can Find Apartments in any country witout worries Can find Aparments for every budget Get premium Apartments",
@@ -29,6 +43,26 @@
     ]
   },
   {
+    "id": 11,
+    "name": "Football League",
+    "desc": "A simple static site for a football league, it can be used to attract customers to the football league",
+    "techStack": "HTML, CSS, Bootstrap, Font Awesome, Responsive Design",
+    "link": "https://github.com/CoderDotJs/responsive-football/",
+    "open": "https://coderdotjs.github.io/responsive-football/",
+    "img": [
+      "https://i.postimg.cc/SQgGr4jG/Screenshot-58.png",
+      "https://i.postimg.cc/FR9jyC4q/Screenshot-59.png",
+      "https://i.postimg.cc/262n2dj5/Screenshot-60.png",
+      "https://i.postimg.cc/vm7r6Fpf/Screenshot-61.png",
+      "https://i.postimg.cc/bwtHp2g6/Screenshot-62.png",
+      "https://i.postimg.cc/zXMSskCb/Screenshot-63.png",
+      "https://i.postimg.cc/YqjzDPWB/Screenshot-64.png",
+      "https://i.postimg.cc/pdMQTX1P/Screenshot-65.png",
+      "https://i.postimg.cc/4yyVMKnQ/Screenshot-66.png",
+      "https://i.postimg.cc/RhYKzMH5/Screenshot-67.png"
+    ]
+  },
+  {
     "id": 3,
     "name": "Teacher World",
     "desc": "Its a simple react application for hiring best teachers to tutor, Getting Started with Teacher Hire Site This project was bootstrapped with Teacher Hire. This site can do following things You can search most wanted teachers You can Hire teachers Can hire teachers for make courses",
@@ -39,6 +73,26 @@
       "https://i.postimg.cc/jd40yzt5/Screenshot-8.png",
       "https://i.postimg.cc/YqHB4XcZ/Screenshot-10.png",
       "https://i.postimg.cc/mZMG2vn7/Screenshot-9.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "NFT MARIA",
+    "desc": "NFT MARIA - A NFT Based Blockchain Game Landing Page, This is a just proctice on web3 related nft project based landing page it is still builing and i am also going to add a server to complete this web3 fullstack projcet",
+    "techStack": "Next.js, Daisy UI, Tailwind CSS, Font Awesome, Responsive Design, Express, Mongoose, Nodejs",
+    "link": "https://github.com/CoderDotJs/maria-nft",
+    "open": "https://nft-maria.netlify.app/",
+    "img": [
+      "https://i.postimg.cc/ncRrnyL1/Screenshot-71.png",
+      "https://i.postimg.cc/52DtC8LY/Screenshot-72.png",
+      "https://i.postimg.cc/L8JX5xYF/Screenshot-73.png",
+      "https://i.postimg.cc/d3QQY6PX/Screenshot-74.png",
+      "https://i.postimg.cc/Gh23gXjT/Screenshot-75.png",
+      "https://i.postimg.cc/BvDnctBh/Screenshot-76.png",
+      "https://i.postimg.cc/Kz2v9F9m/Screenshot-77.png",
+      "https://i.postimg.cc/PxQf9ccY/Screenshot-78.png",
+      "https://i.postimg.cc/Kj9GvTmY/Screenshot-79.png",
+      "https://i.postimg.cc/59pNmh8M/Screenshot-80.png"
     ]
   },
   {
@@ -91,6 +145,77 @@
       "https://i.postimg.cc/pdn6HXKw/Screenshot-30.png",
       "https://i.postimg.cc/8cG3wQJq/Screenshot-31.png",
       "https://i.postimg.cc/wBSnys6x/Screenshot-32.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Applab Agency",
+    "desc": "A simple static site for a applab agency, it can be used to attract customers to the applab agency",
+    "techStack": "HTML, CSS, Bootstrap, Font Awesome, Responsive Design",
+    "link": "https://github.com/CoderDotJs/app-landing-page",
+    "open": "https://coderdotjs.github.io/app-landing-page/",
+    "img": [
+      "https://i.postimg.cc/PryvMR0m/Screenshot-27.png",
+      "https://i.postimg.cc/gjdrVVDS/Screenshot-28.png",
+      "https://i.postimg.cc/fTD0mNqz/Screenshot-29.png",
+      "https://i.postimg.cc/SK2XkNRr/Screenshot-30.png",
+      "https://i.postimg.cc/wjBy4kdn/Screenshot-31.png",
+      "https://i.postimg.cc/yxPxvDpV/Screenshot-32.png",
+      "https://i.postimg.cc/ht3Jk7Dv/Screenshot-33.png",
+      "https://i.postimg.cc/HxbV8ZQ8/Screenshot-34.png",
+      "https://i.postimg.cc/xjyX0ZfW/Screenshot-35.png",
+      "https://i.postimg.cc/GhX9DssK/Screenshot-36.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bike Shop",
+    "desc": "A simple static site for a bike shop, it can be used to attract customers to the bike shop",
+    "techStack": "HTML, CSS, Bootstrap, Font Awesome, Responsive Design",
+    "link": "https://github.com/CoderDotJs/honda-cbr",
+    "open": "https://coderdotjs.github.io/honda-cbr",
+    "img": [
+      "https://i.postimg.cc/65Tgtyng/Screenshot-37.png",
+      "https://i.postimg.cc/XqYhZvhZ/Screenshot-38.png",
+      "https://i.postimg.cc/7Ycc6wN6/Screenshot-39.png",
+      "https://i.postimg.cc/tJvcFjQB/Screenshot-40.png",
+      "https://i.postimg.cc/NGdS319R/Screenshot-41.png",
+      "https://i.postimg.cc/d1BptCWP/Screenshot-42.png",
+      "https://i.postimg.cc/9MVshbYY/Screenshot-43.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Unique Tech",
+    "desc": "A simple static site for a unique tech, it can be used to attract customers to the unique tech",
+    "techStack": "HTML, CSS, Bootstrap, Font Awesome, Responsive Design",
+    "link": "https://github.com/CoderDotJs/unique-tech/",
+    "open": "https://coderdotjs.github.io/unique-tech/",
+    "img": [
+      "https://i.postimg.cc/gJ3KsP9Y/Screenshot-44.png",
+      "https://i.postimg.cc/DwY5ygdK/Screenshot-45.png",
+      "https://i.postimg.cc/1zkHD3jC/Screenshot-46.png",
+      "https://i.postimg.cc/WpM960jM/Screenshot-47.png",
+      "https://i.postimg.cc/L62xyh6G/Screenshot-48.png",
+      "https://i.postimg.cc/nLj2sD09/Screenshot-49.png",
+      "https://i.postimg.cc/cLJXSj3m/Screenshot-50.png",
+      "https://i.postimg.cc/8P4txD7c/Screenshot-51.png",
+      "https://i.postimg.cc/QCsJnnsc/Screenshot-52.png",
+      "https://i.postimg.cc/C5NsyHLX/Screenshot-53.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Penguin Fasion",
+    "desc": "A simple static site for a penguin fasion, it can be used to attract customers to the penguin fasion",
+    "techStack": "HTML, CSS, Bootstrap, Font Awesome, Responsive Design",
+    "link": "https://github.com/CoderDotJs/penguin-fashion/index.html",
+    "open": "https://coderdotjs.github.io/penguin-fashion/index.html",
+    "img": [
+      "https://i.postimg.cc/MK1hHX9G/Screenshot-54.png",
+      "https://i.postimg.cc/zGj6w6ZZ/Screenshot-55.png",
+      "https://i.postimg.cc/7LZcK9wC/Screenshot-56.png",
+      "https://i.postimg.cc/DwFRXFNP/Screenshot-57.png"
     ]
   }
 ]
